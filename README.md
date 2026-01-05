@@ -197,6 +197,9 @@ sudo: unable to resolve host red-sell: Name or service not known
 ```
 需要你查看sudo nano /etc/hosts中，127.0.1.1后面的是否是你的hostname，如果不是，修改后即可
 
+**5. 反向代理**
+- 设置反向代理需要设置5173和3005端口的代理，其中3005是/api/
+
 ### 日志查看
 ```bash
 # 查看后端日志
