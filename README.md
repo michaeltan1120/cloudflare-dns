@@ -37,6 +37,7 @@ cloudflare-dns-manager/
 
 ### 后端
 - Node.js
+  你可以访问[https://nodejs.org/zh-cn/download](https://nodejs.org/zh-cn/download)根据自己的情况去安装
 - Express.js
 - Cloudflare API
 
