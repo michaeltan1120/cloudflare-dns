@@ -30,6 +30,7 @@ cloudflare-dns-manager/
 - 🔄 账号切换功能
 - 📱 响应式设计
 - 🎨 现代化 UI 界面
+- 🆔 多账户（脱裤子放屁）多cloudflare账号
 
 ## 技术栈
 
